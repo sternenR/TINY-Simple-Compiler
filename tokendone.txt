@@ -1,0 +1,1 @@
+read identifier ; identifier := number ; identifier := number ; identifier := number ; if identifier < identifier then identifier := identifier + identifier else identifier := identifier - identifier end ; write identifier ; identifier := ( number + number ) * number ; write identifier

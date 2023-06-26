@@ -1,0 +1,9 @@
+read x;
+y := 5;
+a := 3;
+b :=1;
+if x < y then c:= a + b
+else c:= a - b end ;
+write c;
+d := ( 2+9) * 4 ;
+write d
