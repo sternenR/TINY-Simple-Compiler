@@ -86,3 +86,7 @@ However, it has the following limitations:
 The implementation of this project is based on learning and understanding compiler theory and has been inspired by relevant resources and tutorials. Thanks to the developers and researchers who have contributed to the field of compiler technology.
 
 If you encounter any issues or have any suggestions for improvements while using this project, please feel free to contact me or submit an issue.
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
